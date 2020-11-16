@@ -1,5 +1,13 @@
 package protein
 
+// TODO:
+// - comment the public symbols (var/functions, etc...)
+// - implement FromRNA as a loop, not recursively
+
+// HEY!
+// We did this on a twitch stream, and one of the people watching
+// was a COMPUTATIONAL BIOLOGIST. BOOYAH
+
 import "errors"
 
 var (
